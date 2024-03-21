@@ -1,0 +1,22 @@
+{
+  "SuppliersSettings": [
+    {
+      "Name": "ООО Доставим в срок",
+      "Email": "supplierbox@mail.ru",
+      "Vendor": "Бренд",
+      "Number": "Каталожный номер",
+      "Description": "Описание",
+      "Price": "Цена, руб.",
+      "Count": "Наличие"
+    },
+    {
+      "Name": "ООО Не доставим в срок",
+      "Email": "notsupplierbox@mail.ru",
+      "Vendor": "Vendor",
+      "Number": "Number",
+      "Description": "Description",
+      "Price": "Price",
+      "Count": "Count"
+    }
+  ]
+}
